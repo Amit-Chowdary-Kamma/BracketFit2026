@@ -4,11 +4,9 @@
 
 ---
 
-## What Is This?
+## Overview
 
-BracketFit 2026 is a data-engineered NCAA March Madness bracket optimization engine that treats bracket selection as a **capital allocation problem** — applying financial portfolio theory to bracket strategy.
-
-Rather than generating generic picks, the system collects finance-oriented personal preferences and constructs a bracket optimized to match your specific risk tolerance, pool size, and upside appetite.
+BracketFit 2026 is a simulation-based bracket optimization tool built for the 2026 NCAA Men's Tournament. It uses Monte Carlo methods and Elo-based team ratings to generate risk-differentiated bracket strategies modeled on financial portfolio theory.
 
 ---
 
