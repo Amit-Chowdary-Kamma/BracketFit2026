@@ -29,12 +29,12 @@ Rather than generating generic picks, the system collects finance-oriented perso
 
 | # | Deliverable | Status |
 |---|---|---|
-| 1 | Monte Carlo Simulation Engine (75,000 runs) | ✅ Complete |
-| 2 | Investment Strategy Memo (PDF) | ✅ Complete |
-| 3 | SQL Data Warehouse (SQLite star schema) | ✅ Complete |
-| 4 | User Preference Intake System | ✅ Complete |
-| 5 | Power BI Dashboard (5 pages) | 🔄 In Progress |
-| 6 | Data Quality Audit Workbook | ✅ Complete |
+| 1 | Monte Carlo Simulation Engine (75,000 runs) | Complete |
+| 2 | Investment Strategy Memo (PDF) | Complete |
+| 3 | SQL Data Warehouse (SQLite star schema) | Complete |
+| 4 | User Preference Intake System | Complete |
+| 5 | Power BI Dashboard (5 pages) | In Progress |
+| 6 | Data Quality Audit Workbook | Complete |
 
 ---
 
