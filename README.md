@@ -59,9 +59,14 @@ BracketFit2026/
 ├── database/
 │   └── bracketfit_schema.py         # SQLite star schema + data load
 │
+├── intake/
+│   └── bracketfit_intake.py         # 10-question user preference intake system
+│
 ├── outputs/
 │   ├── BracketFit2026_Simulation_Results.xlsx
-│   └── BracketFit2026_Investment_Memo.pdf
+│   ├── BracketFit2026_Investment_Memo.pdf
+│   ├── BracketFit2026_DataQuality_Audit.xlsx
+│   └── BracketFit2026_UserProfile_Output.xlsx
 │
 └── README.md
 ```
