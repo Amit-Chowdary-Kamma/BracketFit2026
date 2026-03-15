@@ -31,7 +31,7 @@ BracketFit 2026 is a simulation-based bracket optimization tool built for the 20
 | 2 | Investment Strategy Memo (PDF) | Complete |
 | 3 | SQL Data Warehouse (SQLite star schema) | Complete |
 | 4 | User Preference Intake System | Complete |
-| 5 | Power BI Dashboard (5 pages) | In Progress |
+| 5 | Power BI Dashboard (5 pages) | Complete |
 | 6 | Data Quality Audit Workbook | Complete |
 
 ---
