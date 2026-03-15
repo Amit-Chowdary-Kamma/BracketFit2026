@@ -65,6 +65,7 @@ BracketFit2026/
 ├── outputs/
 │   ├── BracketFit2026_Simulation_Results.xlsx
 │   ├── BracketFit2026_Investment_Memo.pdf
+    ├── BracketFit2026_PowerBI_Dashboards_ChiEAC.pdf
 │   ├── BracketFit2026_DataQuality_Audit.xlsx
 │   └── BracketFit2026_UserProfile_Output.xlsx
 │
