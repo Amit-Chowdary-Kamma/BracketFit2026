@@ -79,7 +79,7 @@ BracketFit2026/
 - **Python** — Monte Carlo simulation, ETL, data generation
 - **SQL (SQLite)** — Star schema data warehouse
 - **Excel** — Simulation output and methodology documentation
-- **Power BI** — Interactive dashboard (in progress)
+- **Power BI** — Interactive dashboard 
 - **Elo Rating Model** — Historical seed-based win probability engine
 
 ---
