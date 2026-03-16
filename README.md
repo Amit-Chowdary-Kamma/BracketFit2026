@@ -106,5 +106,5 @@ dim_user_profile ──────┼──── fact_simulations
 ---
 
 ## Developed By
-**Amit** — Data Science Fellow, Chicago Education Advocacy Cooperative (ChiEAC)
+**Amit C K** — Data Science Fellow, Chicago Education Advocacy Cooperative (ChiEAC)
 March 2026
