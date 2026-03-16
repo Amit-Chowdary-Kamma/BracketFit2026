@@ -66,6 +66,7 @@ BracketFit2026/
 │   ├── BracketFit2026_DataQuality_Audit.xlsx
 │   ├── BracketFit2026_Investment_Memo_U.pdf
 │   ├── BracketFit2026_PowerBI_Dashboards_ChiEAC.pdf
+│   ├── BracketFit2026_Simulation_Results.xlsx
 │   ├── BracketFit2026_UserProfile_Output.xlsx
 │   └── Interactive PowerBI File.pbit     # Power BI source file
 │
